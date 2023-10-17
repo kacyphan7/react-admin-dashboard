@@ -17,3 +17,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![Ecommerce Dashboard Dark](assets/ecommerce-dashboard-dark.png)
 
 ![Financial Dark](assets/financial-chart-dark.png)
+
+## Future Enhancement 
+- [ ] Cart
+- [ ] Chat
+- [ ] Notifications
+
+### Issues 
+- [ ] Fix the issue GoPrimitiveDot 
